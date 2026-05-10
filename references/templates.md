@@ -12,6 +12,8 @@ What decision should stakeholders make after reading this?
 For [target user], we believe [product move] will [business/user outcome] because [insight].
 
 ## Market And Timing
+- Target market: [China / Overseas / Cross-border]
+- Document language: [Chinese / English / Bilingual]
 - Market signal:
 - Customer signal:
 - Competitive signal:
@@ -37,6 +39,37 @@ For [target user], we believe [product move] will [business/user outcome] becaus
 | --- | --- | --- | --- |
 ```
 
+## Bilingual Public Introduction
+
+Use this when writing a README, website copy, product one-pager, or internal overview for both Chinese and overseas audiences.
+
+```markdown
+# [Product/Skill Name]
+
+## 中文简介
+[用 2-4 句话说明它解决什么问题、适合谁、为什么可信。]
+
+## English Overview
+[Explain the problem, target users, and value in 2-4 sentences.]
+
+## Who It Is For
+- China-facing teams:
+- Global/overseas teams:
+- Cross-border teams:
+
+## What It Helps Produce
+- Product strategy:
+- PRD:
+- Roadmap:
+- Market evidence:
+- Risk review:
+
+## What It Does Not Do
+- It does not replace customer discovery.
+- It does not guarantee market-size accuracy without sources.
+- It does not provide legal, financial, or compliance advice.
+```
+
 ## PRD
 
 ```markdown
@@ -49,6 +82,8 @@ For [target user], we believe [product move] will [business/user outcome] becaus
 - Success criteria:
 
 ## Context
+- Target market:
+- Language and localization needs:
 - Current workflow:
 - Evidence:
 - Constraints:
@@ -79,6 +114,12 @@ For [target user], we believe [product move] will [business/user outcome] becaus
 - Beta:
 - GA:
 - Post-launch:
+
+## Localization And GTM
+| Market | Language | Channel | Pricing | Compliance | Support |
+| --- | --- | --- | --- | --- | --- |
+| China | | | | | |
+| Overseas | | | | | |
 
 ## Risks And Open Questions
 | Item | Type | Owner | Next Step |

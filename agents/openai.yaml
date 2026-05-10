@@ -1,4 +1,4 @@
 interface:
   display_name: "Product Doc Strategist"
-  short_description: "Plan strategy, PRDs, roadmaps, and market evidence."
-  default_prompt: "Use $product-doc-strategist to turn this product idea into a strategy-backed PRD with market evidence and roadmap."
+  short_description: "Bilingual PRDs, strategy, roadmaps, and market evidence."
+  default_prompt: "Use $product-doc-strategist to turn this product idea into a China/global strategy-backed PRD with market evidence and roadmap."
